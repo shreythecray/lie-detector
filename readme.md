@@ -1,5 +1,4 @@
-# Build a Serverless Lie Detector that uses AI for Facial Recognition
-with Node.js, Azure Face API, and Courier API)
+# Build a Serverless Lie Detector that uses AI for Facial Recognition with Node.js, Azure Face API, and Courier API
 
 ## Open Source
 
@@ -51,9 +50,15 @@ Our spies are now ready to receive their secret encoded messages. Try testing th
 🔗 Video tutorial: TBD
 
 🔗 Courier: [app.courier.com](https://bit.ly/3QPiFg3)
+
 🔗 Register for the Hackathon: [https://courier-hacks.devpost.com/](https://courier-hacks.devpost.com/)
+
 🔗 Courier's Get Started with Node.js: [https://www.courier.com/docs/guides/getting-started/nodejs/](https://www.courier.com/docs/guides/getting-started/nodejs/)
+
 🔗 Courier Send API Docs: [https://www.courier.com/docs/reference/send/message/](https://www.courier.com/docs/reference/send/message/)
+
 🔗 Twilio Messaging Service SID Docs: [https://support.twilio.com/hc/en-us/articles/223181308-Getting-started-with-Messaging-Services](https://support.twilio.com/hc/en-us/articles/223181308-Getting-started-with-Messaging-Services)
+
 🔗 Node-fetch: [https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
+
 🔗 Azure Face API Reference: [TBD](TBD)
