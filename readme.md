@@ -2,7 +2,10 @@
 
 ## Open Source
 
-Fork this repository and start building on top of this project
+- [ ] Fork this repository
+- [ ] Add a link to your version of this project at the end of the readme.md file
+- [ ] Make a pull request to this repository
+- [ ] Start building on top of the code
 
 ## Introduction
 
@@ -62,3 +65,8 @@ Our spies are now ready to receive their secret encoded messages. Try testing th
 🔗 Node-fetch: [https://www.npmjs.com/package/node-fetch](https://www.npmjs.com/package/node-fetch)
 
 🔗 Azure Face API Reference: [TBD](TBD)
+
+## Your projects
+
+* Your Name/linked social media: link to project
+* [@shreythecray](https://twitter.com/shreythecray): https://github.com/shreythecray/lie-detector
