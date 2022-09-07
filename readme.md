@@ -1,7 +1,11 @@
 # Build a Serverless Lie Detector that uses AI for Facial Recognition
 with Node.js, Azure Face API, and Courier API)
 
-GitHub Repository: https://github.com/shreythecray/lie-detector
+## Open Source
+
+Fork this repository and start building on top of this project
+
+## Introduction
 
 We will be building a serverless application that uses Artificial Intelligence to conduct facial recognition and send alerts to you.
 We just launched our first hackathon, and are giving away over $1K in prizes! Join us in building a cool project and winning any of the following prizes 🏆
@@ -44,7 +48,6 @@ Our spies are now ready to receive their secret encoded messages. Try testing th
 
 # Quick Links
 
-🔗 GitHub Repository: https://github.com/shreythecray/lie-detector
 🔗 Video tutorial: TBD
 
 🔗 Courier: [app.courier.com](https://bit.ly/3QPiFg3)
