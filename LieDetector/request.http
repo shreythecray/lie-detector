@@ -1,0 +1,6 @@
+###
+POST http://localhost:7071/api/LieDetector
+
+{
+    "name": "Secret Agent Pigeon"
+}
